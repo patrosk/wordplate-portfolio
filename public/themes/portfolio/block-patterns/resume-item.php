@@ -7,7 +7,7 @@ if (function_exists('register_block_pattern')) {
         [
             'title' => 'Resume item',
             'description' => 'A list item for building a resume.',
-            'categories' => ['text'],
+            'categories' => ['portfolio-patterns'],
             'content' => '<!-- wp:group -->
             <div class="wp-block-group"><!-- wp:group {"backgroundColor":"pale-pink","textColor":"vivid-red"} -->
             <div class="wp-block-group has-vivid-red-color has-pale-pink-background-color has-text-color has-background"><!-- wp:heading -->
